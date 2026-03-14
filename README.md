@@ -59,5 +59,4 @@ Structured JSON containing:
 - Multi-Agent Orchestration
 - Prompt Engineering
 
-## Hackathon
-Built for **AidenAI Hackathon 2026**.
+
