@@ -36,7 +36,7 @@ Identifies:
 Coordinates communication between agents and manages context sharing across them.
 
 ## Input
-Long unstructured document (500+ words recommended)
+Long unstructured document 
 
 ## Output
 Structured JSON containing:
