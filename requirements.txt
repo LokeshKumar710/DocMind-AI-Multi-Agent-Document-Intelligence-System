@@ -1,0 +1,12 @@
+google-genai>=1.0.0
+python-dotenv>=1.0.0
+Pillow>=10.0.0
+python-docx>=1.1.0
+PyMuPDF>=1.23.0
+streamlit>=1.30.0
+langgraph>=0.0.40
+langchain>=0.1.0
+langchain-google-genai>=1.0.0
+langchain-core>=0.1.0
+langchain_openai>=0.1.0
+
